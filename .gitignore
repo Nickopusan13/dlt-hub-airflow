@@ -6,7 +6,6 @@ secrets.toml
 **/__pycache__/
 **/*.py[cod]
 **/*$py.class
-airflow.cfg
 
 /logs
 /key
