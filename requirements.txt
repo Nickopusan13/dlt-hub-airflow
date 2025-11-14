@@ -1,0 +1,2 @@
+dlt[bigquery,filesystem]>=1.17.1
+python-dotenv>=1.2.1
